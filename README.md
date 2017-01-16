@@ -5,8 +5,8 @@ Getting Started
 
 ```sh
 # clone it
-git clone https://jaxf-github.fanatics.corp/Data-Science-and-Engineering/Badger.git
-cd Badger
+git clone https://github.com/shellyjindal10/react-query-builder.git
+cd react-query-builder
 
 # Make it your own
 rm -rf .git && git init && npm init
@@ -21,7 +21,7 @@ PORT=3000 npm start
 npm run build
 
 #How to test your components using webpack-dev-server:
-COMPONENT_NAME=query-builder webpack-dev-server
+COMPONENT_NAME=react-query-builder webpack-dev-server
 
 ```
 
