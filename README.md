@@ -21,7 +21,7 @@ PORT=3000 npm start
 npm run build
 
 #How to test your components using webpack-dev-server:
-COMPONENT_NAME=react-query-builder webpack-dev-server
+COMPONENT_NAME=react-query-builder node_modules/.bin/webpack-dev-server
 
 ```
 
